@@ -1,4 +1,4 @@
 
 
 print("First git practice")
-print("sd")
+print("sd - 6")
